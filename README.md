@@ -19,4 +19,5 @@ Type 1 errors occur when we incorrectly reject a null hypothesis that is actuall
 
 Hypothesis tests include T tests, Z tests, ANOVA tests  and  Chi square tests.
 
+For marginal probability one might want to use a feature_engine
 Crosstab is used to compare variables
