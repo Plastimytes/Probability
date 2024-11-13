@@ -11,6 +11,7 @@ Events->Joint probability->Conditional probability
 
 Commenting is usually the same as in python files 
 
+Joint probability=event(A)n event(B)
 
 Conditional probability=Joint probability/event(b)
 
