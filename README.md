@@ -24,4 +24,5 @@ Hypothesis testing is important to find if certain theories prove right in a giv
 
 
 For marginal probability one might want to use a feature_engine
-Crosstab is used to compare variables.
+Crosstab is used to compare variables.<br>
+Markov chains
