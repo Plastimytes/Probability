@@ -28,4 +28,6 @@ Crosstab is used to compare variables.<br>
 Markov chains
 
 
-Parametric tests- data has to be normally distributed, observations independent and variance the same
+Parametric tests- data has to be normally distributed, observations independent and variance the same.
+
+Non-parametric tests
