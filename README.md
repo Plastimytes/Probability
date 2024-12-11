@@ -30,4 +30,4 @@ Markov chains
 
 Parametric tests- data has to be normally distributed, observations independent and variance the same.
 
-Non-parametric tests- no such restrictions 
+Non-parametric tests- no such restrictions. Chi square tests are an example
