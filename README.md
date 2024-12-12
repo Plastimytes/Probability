@@ -1,4 +1,4 @@
-This is a repository to learn probability and statistics in jupyter
+I'mThis is a repository to learn probability and statistics in jupyter
 Statistics 
 
 Mean median mode etc
@@ -31,3 +31,5 @@ Markov chains
 Parametric tests- data has to be normally distributed, observations independent and variance the same.
 
 Non-parametric tests- no such restrictions. Chi square tests are an example
+
+Using functions in probability 
