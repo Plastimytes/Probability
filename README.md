@@ -1,4 +1,4 @@
-I'mThis is a repository to learn probability and statistics in jupyter
+This is a repository to learn probability and statistics in jupyter
 Statistics 
 
 Mean median mode etc
@@ -32,4 +32,4 @@ Parametric tests- data has to be normally distributed, observations independent 
 
 Non-parametric tests- no such restrictions. Chi square tests are an example
 
-Using functions in probability 
+....Using functions in probability....
