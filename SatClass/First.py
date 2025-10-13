@@ -7,6 +7,7 @@ name="Richard"
 num_1=12
 num_2=3.14
 status=False
+
 ##############
 print(type(num_1))
 print(type(name))
