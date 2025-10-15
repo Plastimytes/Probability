@@ -15,7 +15,7 @@ print(type(name))
 print(type(status))
 print(num_1+num_2)
 
-##Functions
+##Functions##
 
 #returnig functions
 def Subtraction():
